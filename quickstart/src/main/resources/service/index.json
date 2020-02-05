@@ -1,0 +1,49 @@
+{
+  "name": "personal-data",
+  "fields": [
+    {
+      "name": "RollNo",
+      "type": "Edm.String",
+      "key" : true,
+      "searchable": true,
+      "filterable": true,
+      "sortable": false,
+      "facetable": true
+    },
+    {
+      "name": "FirstName",
+      "type": "Edm.String",
+      "searchable": true,
+      "filterable": true,
+      "sortable": true,
+
+      "facetable": true
+    },
+    {
+      "name": "LastName",
+      "type": "Edm.String",
+      "searchable": true,
+      "filterable": true,
+      "sortable": false,
+      "facetable": true
+    },
+    {
+      "name": "marks",
+      "type": "Collection(Edm.String)",
+      "searchable": true,
+      "filterable": true,
+      "sortable": false,
+      "facetable": true
+
+    },
+    {
+      "name": "subjects",
+      "type": "Collection(Edm.String)",
+      "searchable": true,
+      "filterable": true,
+      "sortable": false,
+      "facetable": true
+
+    }
+  ]
+}

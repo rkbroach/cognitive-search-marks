@@ -1,0 +1,32 @@
+{
+  "value": [
+    {
+      "RollNo": "16csu301",
+      "FirstName": "rohan",
+      "LastName": "broch",
+      "marks": ["8","20"],
+      "subjects": ["c","java"]
+    },
+    {
+      "RollNo": "16csu152",
+      "FirstName": "anshul",
+      "LastName": "tyagi",
+      "marks": ["8","50"],
+      "subjects": ["maths","java"]
+    },
+    {
+      "RollNo": "16csu210",
+      "FirstName": "mohak",
+      "LastName": "bahl",
+      "marks": ["25","20"],
+      "subjects": ["maths","physics"]
+    },
+    {
+      "RollNo": "16csu199",
+      "FirstName": "nitya",
+      "LastName": "sharma",
+      "marks": ["7","40"],
+      "subjects": ["history","physics"]
+    }
+  ]
+}
