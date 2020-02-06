@@ -1,0 +1,30 @@
+{
+  "value": [
+    {
+      "GOCfunction": "ShootingServices",
+      "Portfolio_within_the_function": "Photography and Videography",
+      "Purpose_of_the_Portfolio": "Purpose 1",
+      "Capabilities": ["Editing Images","Camera Operations", "Lens Handling", "Studio Lighting"],
+      "Activity": ["Activity for Editing Images","Activity for Camera Operations", "Activity for Lens Handling", "Activity for Studio Lighting"],
+      "Skill_Set_required": ["Knowledge of manual camera settings", "lighting and color theory", "handling film gear and equipment"],
+      "Systems": ["Adobe Lightroom", "Photoshop", "Premiere Pro", "Audition"],
+      "Location": ["India", "UK", "Dalian"],
+      "Asset_Class_and_Channel_Knowledge" : ["Color Theory", "Composition", "Film Grading"],
+      "Key_Business_stakeholder" : ["Cinematographer", "Director", "Producer"],
+      "Contact" : ["Jason Keeping", "Rahul Aggrawal", "Andy Li"]
+    },
+    {
+      "GOCfunction": "PreReleaseServices",
+      "Portfolio_within_the_function": "Marketing, Promotions and Social Media",
+      "Purpose_of_the_Portfolio": "Purpose 2",
+      "Capabilities": ["Social Campaigns","Replying to comments", "Sales and Assets"],
+      "Activity": ["Activity for Social Campaigns","Activity for Replying to comments", "Activity for Sales and Assets"],
+      "Skill_Set_required": ["Understanding analytics", "Graphic Designing", "SEO", "Making Memes"],
+      "Systems": ["Google Analytics", "Search Me More"],
+      "Location": ["India", "UK"],
+      "Asset_Class_and_Channel_Knowledge" : ["Instagram", "Facebook", "Snapchat", "YouTube"],
+      "Key_Business_stakeholder" : ["Producer"],
+      "Contact" : ["Martin Auer", "Anuja Bhargava", "Andy Li"]
+    }
+  ]
+}
